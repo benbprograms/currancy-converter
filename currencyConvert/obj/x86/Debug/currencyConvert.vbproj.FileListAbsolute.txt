@@ -1,0 +1,19 @@
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\bin\Debug\currencyConvert.exe
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\bin\Debug\currencyConvert.pdb
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\bin\Debug\currencyConvert.xml
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\obj\x86\Debug\currencyConvert.Form1.resources
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\obj\x86\Debug\currencyConvert.Resources.resources
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\obj\x86\Debug\currencyConvert.vbproj.GenerateResource.Cache
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\obj\x86\Debug\currencyConvert.exe
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\obj\x86\Debug\currencyConvert.xml
+C:\Users\blakemorea08122\AppData\Local\Temporary Projects\currencyConvert\obj\x86\Debug\currencyConvert.pdb
+\\lpbs-file-02\2014$\blakemorea08122\visual studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.exe
+\\lpbs-file-02\2014$\blakemorea08122\visual studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.xml
+\\lpbs-file-02\2014$\blakemorea08122\visual studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.pdb
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.Form1.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.Resources.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.SplashScreen1.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Debug\currencyConvert.vbproj.GenerateResource.Cache
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\bin\Debug\currencyConvert.exe
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\bin\Debug\currencyConvert.pdb
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\bin\Debug\currencyConvert.xml

@@ -1,0 +1,10 @@
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\bin\Release\currencyConvert.exe
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\bin\Release\currencyConvert.pdb
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\bin\Release\currencyConvert.xml
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.Form1.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.Resources.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.SplashScreen1.resources
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.vbproj.GenerateResource.Cache
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.exe
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.xml
+\\lpbs-file-02\2014$\blakemorea08122\Visual Studio 2010\Projects\currencyConvert\currencyConvert\obj\x86\Release\currencyConvert.pdb
